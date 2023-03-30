@@ -1,6 +1,15 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=rounded&color=gradient&customColorList=10,2,2,3,39&text=Hello!)
 
 
+
+ <h1>안녕하세요!임성은 입니다.</h1>
+  <p> 전 프론트엔드 개발자입니다. 항상 팀과의 협업과 소통을 중시하며,</p>
+  <p> 긍정적이고 즐겁게 일하는 것을 원하고 또 그렇게 일을 할것입니다!!</p>
+  <p> 감사합니다~</p>
+  </div>
+  
 💻기술스택
 - ![React](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=white&style=flat)
 - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=JavaScript&logoColor=white&style=flat)
